@@ -1,0 +1,7 @@
+Installation through Apt on Ubuntu Machine
+For installing Ansible you have to configure PPA on your machine. For this, you have to run the following line of code −
+
+$ sudo apt-get update 
+$ sudo apt-get install software-properties-common 
+$ sudo apt-add-repository ppa:ansible/ansible $ sudo apt-get update 
+$ sudo apt-get install ansible
